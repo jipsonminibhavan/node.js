@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jipsonminibhavan/node.js.git"
+  },
+  "author": "J.M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jipsonminibhavan/node.js/issues"
+  },
+  "homepage": "https://github.com/jipsonminibhavan/node.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
